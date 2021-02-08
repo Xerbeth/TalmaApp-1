@@ -1,0 +1,2 @@
+# TalmaApp
+WebService .Net COre
